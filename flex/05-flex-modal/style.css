@@ -67,3 +67,17 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+.external{
+  display: flex;
+  padding: 16px;  
+  gap: 10px;
+}
+.icon , .close-button{
+  display: flex;
+  flex: 0 0 auto;
+}
+.upper{
+  display: flex;
+  gap:10px;
+  flex-direction: column;
+}
